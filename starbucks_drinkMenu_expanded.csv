@@ -117,7 +117,7 @@ Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,220,3.5,0.4,0,0,90,41,1,37,6,8%,
 Tazo® Tea Drinks,Tazo® Chai Tea Latte,Venti Nonfat Milk,260,0.3,0.2,0,5,135,57,0,54,10,15%,0%,35%,2%,120
 Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,310,6,3,0.2,25,150,56,0,53,10,15%,2%,30%,2%,120
 Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,280,4.5,0.5,0,0,115,51,1,46,8,10%,0%,30%,15%,120
-Tazo® Tea Drinks,Tazo® Green Tea Latte,Short Nonfat Milk,130,0.2,0.1,0,5,85,26,0,25,7,10%,4%,20%,2%,25
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Short Nonfat Milk,,0.2,0.1,0,5,85,26,0,25,7,10%,4%,20%,2%,25
 Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,170,4,2,0.1,15,95,26,0,25,7,10%,6%,20%,2%,25
 Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,140,3,0.4,0,0,70,22,1,20,6,8%,4%,20%,10%,25
 Tazo® Tea Drinks,Tazo® Green Tea Latte,Tall Nonfat Milk,210,0.4,0.2,0,5,125,42,1,41,11,20%,10%,35%,4%,55
@@ -129,18 +129,18 @@ Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,310,6,1,0,0,140,50,3,46,11,15%,
 Tazo® Tea Drinks,Tazo® Green Tea Latte,Venti Nonfat Milk,370,0.5,0.3,0,10,200,73,2,71,18,30%,20%,60%,6%,110
 Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,450,10,5,0.3,40,230,72,2,71,17,25%,20%,50%,6%,110
 Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,390,8,1,0,0,180,64,4,58,14,20%,20%,60%,30%,110
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Short Nonfat Milk,80,0.1,0.1,0,0,45,16,0,16,4,6%,0%,10%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,90,2,1,0.1,10,50,15,0,15,3,6%,0%,10%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,80,1.5,0.2,0,0,40,14,0,13,3,4%,0%,10%,6.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Tall Nonfat Milk,120,0.1,0.1,0,5,65,23,0,23,5,10%,0%,20%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,140,3,1.5,0.1,15,75,23,0,23,5,8%,0%,15%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,130,2.5,0.3,0,0,60,21,1,19,4,6%,0%,20%,8.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Grande Nonfat Milk,150,0.2,0.1,0,5,85,31,0,31,7,15%,0%,25%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,190,4,2,0.1,15,95,31,0,30,7,10%,0%,25%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,170,3.5,0.4,0,0,80,27,1,25,6,8%,0%,25%,10.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Venti Nonfat Milk,190,0.2,0.1,0,5,110,39,0,39,9,15%,0%,30%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,230,5,2.5,0.2,20,125,38,0,38,9,15%,0%,30%,0.00%,varies
-Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,210,4,0.5,0,0,100,34,1,32,7,10%,0%,30%,15.00%,varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Short Nonfat Milk,,0.1,0.1,0,0,45,16,0,16,4,6%,0%,10%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,90,2,1,0.1,10,50,15,0,15,3,6%,0%,10%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,80,1.5,0.2,0,0,40,14,0,13,3,4%,0%,10%,6.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Tall Nonfat Milk,120,0.1,0.1,0,5,65,23,0,23,5,10%,0%,20%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,140,3,1.5,0.1,15,75,23,0,23,5,8%,0%,15%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,130,2.5,0.3,0,0,60,21,1,19,4,6%,0%,20%,8.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Grande Nonfat Milk,150,0.2,0.1,0,5,85,31,0,31,7,15%,0%,25%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,190,4,2,0.1,15,95,31,0,30,7,10%,0%,25%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,170,3.5,0.4,0,0,80,27,1,25,6,8%,0%,25%,10.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Venti Nonfat Milk,190,0.2,0.1,0,5,110,39,0,39,9,15%,0%,30%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,2% Milk,230,5,2.5,0.2,20,125,38,0,38,9,15%,0%,30%,0.00%,Varies
+Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Soymilk,210,4,0.5,0,0,100,34,1,32,7,10%,0%,30%,15.00%,Varies
 Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Short Nonfat Milk,80,0.1,0.1,0,0,45,16,0,16,4,6%,0%,10%,0%,0
 Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,90,2,1,0.1,10,50,15,0,15,3,6%,0%,10%,0%,0
 Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,80,1.5,0.2,0,0,40,14,0,13,3,4%,0%,10%,6%,0
@@ -158,7 +158,7 @@ Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Grande,90,0.1,0,0,
 Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Venti,130,0.1,0,0,0,5,31,0,31,0.4,0%,0%,0%,0%,235
 Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Tall Nonfat Milk,80,0.1,0,0,0,25,18,0,18,2,2%,0%,6%,0%,90
 Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,90,1,0.5,0,5,25,18,0,18,2,2%,0%,6%,0.00%,
-Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,80,1,0.1,0,0,20,17,0,17,2,2%,0%,6%,0%,90
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,,1,0.1,0,0,20,17,0,17,2,2%,0%,6%,0%,90
 Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Grande Nonfat Milk,110,0.1,0,0,0,30,24,0,24,2,4%,0%,8%,2%,90
 Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,120,1.5,0.5,0,5,35,24,0,24,2,4%,0%,8%,0%,125
 Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,110,1,0.1,0,0,30,23,0,22,2,2%,0%,8%,0%,125
@@ -219,13 +219,13 @@ Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Soymilk,430,8,4.5
 Frappuccino® Light Blended Coffee,Coffee,Tall Nonfat Milk,90,0.1,0,0,0,160,20,0,19,3,4%,0%,10%,0%,70
 Frappuccino® Light Blended Coffee,Coffee,Grande Nonfat Milk,120,0.1,0.1,0,0,210,26,0,26,3,6%,0%,10%,0%,95
 Frappuccino® Light Blended Coffee,Coffee,Venti Nonfat Milk,160,0.1,0.1,0,5,270,34,0,33,5,8%,0%,15%,2%,120
-Frappuccino® Light Blended Coffee,Mocha,Tall Nonfat Milk,110,0.5,0.4,0,0,150,24,1,23,3,4%,0%,8%,6%,70
+Frappuccino® Light Blended Coffee,Mocha,Tall Nonfat Milk,110!!!,0.5,0.4,0,0,150,24,1,23,3,4%,0%,8%,6%,70
 Frappuccino® Light Blended Coffee,Mocha,Grande Nonfat Milk,150,1,0.5,0,0,200,33,1,30,4,6%,0%,10%,8%,95
 Frappuccino® Light Blended Coffee,Mocha,Venti Nonfat Milk,210,1,0.5,0,5,280,46,1,42,6,8%,0%,15%,10%,130
 Frappuccino® Light Blended Coffee,Caramel,Tall Nonfat Milk,100,0.1,0,0,0,140,23,0,23,3,4%,0%,8%,0%,65
 Frappuccino® Light Blended Coffee,Caramel,Grande Nonfat Milk,150,0.1,0.1,0,0,200,33,0,32,3,6%,0%,10%,0%,90
 Frappuccino® Light Blended Coffee,Caramel,Venti Nonfat Milk,200,0.1,0.1,0,5,270,44,0,43,5,8%,0%,15%,2%,120
-Frappuccino® Light Blended Coffee,Java Chip,Tall Nonfat Milk,150,3,2,0,0,170,30,1,27,4,4%,0%,10%,20%,70
+Frappuccino® Light Blended Coffee,Java Chip,Tall Nonfat Milk,,3,2,0,0,170,30,1,27,4,4%,0%,10%,20%,70
 Frappuccino® Light Blended Coffee,Java Chip,Grande Nonfat Milk,220,4,3,0,0,240,43,2,39,5,6%,0%,10%,25%,105
 Frappuccino® Light Blended Coffee,Java Chip,Venti Nonfat Milk,290,5,4,0,5,320,58,2,52,7,8%,0%,15%,35%,165
 Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Tall Nonfat Milk,170,0.1,0.1,0,0,140,39,0,38,3,6%,6%,10%,2%,0
@@ -241,3 +241,4 @@ Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Tall Nonfat Mi
 Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Whole Milk,200,3.5,2,0.1,10,160,39,0,38,3,6%,0%,10%,0%,0
 Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Soymilk,180,1.5,0.2,0,0,160,37,1,35,3,4%,0%,10%,6%,0
 Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Grande Nonfat Milk,240,0.1,0.1,0,5,230,56,0,55,5,8%,0%,15%,0%,0
+,,,,,,,,,,,,,,,,,22
