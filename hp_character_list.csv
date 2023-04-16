@@ -1,4 +1,4 @@
-Character ID,Character Name,Species,Gender,House,Patronus,Wand (Wood),Wand (Core)
+ï»¿Character ID,Character Name,Species,Gender,House,Patronus,Wand (Wood),Wand (Core)
 1,Harry Potter,Human,Male,Gryffindor,Stag,Holly,Phoenix Feather
 2,Ron Weasley,Human,Male,Gryffindor,Jack Russell Terrier,,
 3,Hermione Granger,Human,Female,Gryffindor,Otter,Vine,Dragon Heartstring
@@ -71,7 +71,7 @@ Character ID,Character Name,Species,Gender,House,Patronus,Wand (Wood),Wand (Core
 70,Corban Yaxley,Human,Male,Slytherin,,,
 71,Cormac McLaggen,Human,Male,Gryffindor,,,
 72,Susan Bones,Human,Female,Hufflepuff,,,
-73,Bill Weasley,Human (Werewolf traits),Male,Gryffindor,,,
+73,Bill Weasley,HumanÂ (WerewolfÂ traits),Male,Gryffindor,,,
 74,Angelina Johnson,Human,Female,Gryffindor,,,
 75,Dean Thomas,Human,Male,Gryffindor,,,
 76,Mundungus Fletcher,Human,Male,,,,
